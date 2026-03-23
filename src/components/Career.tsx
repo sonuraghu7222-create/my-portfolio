@@ -15,43 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Data Analyst</h4>
+                <h5>Wipro</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Jul '24 — Jan '25</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Developed interactive Power BI dashboards and automated MIS reports, reducing manual reporting effort by 30%. Consolidated and validated ERP datasets, improving data accuracy by 95% and ensuring reliable business insights. Delivered actionable insights on workforce utilization.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Analyst</h4>
+                <h5>Infosys BPM</h5>
               </div>
-              <h3>2021</h3>
+              <h3>May '23 — Jul '24</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Analysed 50,000+ ServiceNow incident records, reducing repeat incidents by 18%. Produced regular IT service delivery performance reports, and authored 15+ process documentation guides, increasing team productivity by 30%.
             </p>
           </div>
         </div>
